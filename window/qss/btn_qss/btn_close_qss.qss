@@ -1,0 +1,10 @@
+QPushButton {
+    border: none;
+    background-color: transparent;
+    width: 16px;
+    height: 16px;
+    margin: 0px;
+    padding: 0px;
+    qproperty-icon: url(qss/icon/close.png);
+}
+

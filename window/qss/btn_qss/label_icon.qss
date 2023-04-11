@@ -1,0 +1,4 @@
+QLabel {
+    qproperty-alignment: AlignCenter;
+    qproperty-pixmap: url(qss/icon/icon.png);
+}
